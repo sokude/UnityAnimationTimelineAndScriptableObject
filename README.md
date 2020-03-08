@@ -1,2 +1,4 @@
 # UnityAnimationTimelineAndScriptableObject
 UnityのアニメーションイベントにScriptableObjectを引数として渡す
+解説はQiitaにて
+https://qiita.com/sokude/items/4e8d0ef713e8c71ef6a8
