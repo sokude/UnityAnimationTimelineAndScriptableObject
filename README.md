@@ -1,0 +1,2 @@
+# UnityAnimationTimelineAndScriptableObject
+UnityのアニメーションイベントにScriptableObjectを引数として渡す
